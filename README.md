@@ -8,7 +8,7 @@ Minimal class to easily log messages to local syslog and/or papertrail and/or a 
 
 ## Usage 
 
-    $ composer require coderofsalvation/syslog
+    $ composer require coderofsalvation/syslog-flexible
 
 And then 
 
